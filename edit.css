@@ -1,0 +1,43 @@
+body
+{
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+.lef {
+    float: left;
+    height: 600px;
+    width: 220px;
+    border-style: none solid none none;
+    line-height: 70px;
+    background-color: green;
+    color: aliceblue;
+}
+.tir {
+    float: right;
+    height: 150px;
+    width: 900px;
+    color: white;
+    line-height: 60px;
+}
+button {
+    border-radius: 30px;
+    border: none;
+    background-color: blue;
+    height: 40px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+img{
+    height: 360px;
+    width: 800px;
+    border-radius: 200px;
+} 
